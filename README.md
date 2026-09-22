@@ -14,6 +14,6 @@ Ausgeliefert über GitHub Pages aus dem Branch `main`, Ordner `/`.
 
 ## Anbieter
 
-Max Pickan, Kaarster Weg 24a, 40547 Düsseldorf, support@aviarise.com.
+Max Pickan, Kaarster Weg 24a, 40547 Düsseldorf, ansitz@pickan.de.
 Steht in `impressum.html` und in `datenschutz.html` unter „Verantwortlicher“.
 Bei einer Änderung beide Dateien anpassen.
