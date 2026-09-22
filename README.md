@@ -12,8 +12,8 @@ Liefert die beiden URLs, die App Store Connect verlangt: Support und Datenschutz
 Kein Build-Schritt, kein Framework, keine externen Schriften oder Skripte.
 Ausgeliefert über GitHub Pages aus dem Branch `main`, Ordner `/`.
 
-## Offen
+## Anbieter
 
-In `datenschutz.html` und `impressum.html` steht die Anschrift noch als Platzhalter
-(`<span class="todo">`). Die muss vor dem Launch eingetragen werden, sonst ist das
-Impressum nach § 5 DDG unvollständig.
+Max Pickan, Kaarster Weg 24a, 40547 Düsseldorf, support@aviarise.com.
+Steht in `impressum.html` und in `datenschutz.html` unter „Verantwortlicher“.
+Bei einer Änderung beide Dateien anpassen.
